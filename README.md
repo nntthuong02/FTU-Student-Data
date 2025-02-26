@@ -1,7 +1,7 @@
 # 🎓 FTU Student Data Fetcher
 
 Dự án này giúp bạn lấy danh sách sinh viên từ hệ thống tra cứu thông tin của **Đại học Ngoại thương (FTU)** cho từng khóa học hoặc ngành cụ thể.
-## Trong folder data đã có một số khóa (có thể liên hệ tôi để lấy dữ liệu nếu không muốn tự chạy)
+
 
 ## 🚀 Hướng dẫn sử dụng
 
